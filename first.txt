@@ -1,0 +1,2 @@
+gonna practice git
+基本的なワークフローを学びます
