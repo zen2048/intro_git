@@ -3,3 +3,4 @@ gonna practice git
 git add
 git commit
 git rm
+git status
